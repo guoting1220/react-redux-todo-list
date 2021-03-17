@@ -1,0 +1,14 @@
+.Todo p {
+  display: inline-block;
+}
+
+.Todo button {
+  border: none;
+  background-color: #F18A7B;
+  margin: 0.6rem;
+  border-radius: 3px;
+  padding: 0.3rem;
+  font-weight: bold;
+  color: white;
+  width: 2rem;
+}

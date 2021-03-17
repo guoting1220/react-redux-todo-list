@@ -1,0 +1,26 @@
+.NewTodoForm {
+  margin: 3rem;
+}
+
+.NewTodoForm input {
+  width: 30%;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 2px solid #D6D6D7;  
+}
+
+.NewTodoForm button {
+  margin: 0 1rem;
+  border: none;
+  border-radius: 6px;
+  background-color: #A1C88E;
+  color: white;
+  padding: 0.5rem;
+  font-weight: bold;
+  outline: none;
+}
+
+.NewTodoForm button:hover {
+  cursor: pointer;
+  background-color: #82BD65;
+} 

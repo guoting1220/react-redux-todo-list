@@ -1,0 +1,8 @@
+.TodoList {
+  width: 60%;
+  margin:auto;
+}
+
+.TodoList-todos {
+  text-align: left;
+}
